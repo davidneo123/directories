@@ -1,0 +1,23 @@
+{
+  "name": "directories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidneo123/directories.git"
+  },
+  "keywords": [
+    "folders"
+  ],
+  "author": "David Arbelaez V.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidneo123/directories/issues"
+  },
+  "homepage": "https://github.com/davidneo123/directories#readme"
+}
